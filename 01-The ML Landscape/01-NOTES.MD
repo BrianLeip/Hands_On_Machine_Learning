@@ -1,10 +1,11 @@
-# 01-THE MACHINE LEARNING LANDSCAPE
-## What is Machine Learning
-
+# 01 - THE MACHINE LEARNING LANDSCAPE
+## I. What is Machine Learning
+add notes later if needed, most of this internalized already
 ***
-## Why use Machine Learning
-
-#### Types of Machine Learning
+## II. Why use Machine Learning
+add notes later if needed, most of this internalized already
+***
+## III. Types of Machine Learning
 *Training Methods*
 1. Supervised
 2. Unsupervised
@@ -42,4 +43,3 @@
 *Association rule learning* - Dig into large amounts of data and discover interesting relationships and attributes
 - Apriori
 - Eclat
-

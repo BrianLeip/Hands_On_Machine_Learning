@@ -45,11 +45,8 @@ xgboost==0.82
 # you need a GPU card with CUDA Compute Capability 3.0 or higher support, and
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
-#tensorflow==1.13.1	# BL NOTE: commented this out from GitHub warning on 12/16/19
-#tensorflow-gpu==1.13.1	# BL NOTE: commented this out from GitHub warning on 12/16/19
-tensorflow>=1.15.2
-#tensorflow-gpu>=1.15.2
-
+tensorflow==1.13.1
+#tensorflow-gpu==1.13.1
 
 
 # Optional: OpenAI gym is only needed for the Reinforcement Learning chapter.
@@ -62,8 +59,7 @@ tensorflow>=1.15.2
 
 ##### Image manipulation
 imageio==2.5.0
-#Pillow==5.4.1		# BL NOTE: commented this out from GitHub warning on 10/22/19
-pillow>=6.2.0
+Pillow==5.4.1
 scikit-image==0.14.2
 
 
@@ -78,8 +74,7 @@ numexpr==2.6.9
 
 # Optional: these libraries can be useful in the classification chapter,
 # exercise 4.
-#nltk==3.4		# BL NOTE: commented this out from GitHub warning on 8/24/19
-nltk>=3.4.5
+nltk==3.4
 urlextract==0.9
 
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support

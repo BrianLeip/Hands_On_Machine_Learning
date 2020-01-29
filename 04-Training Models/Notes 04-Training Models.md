@@ -1,7 +1,7 @@
 # CHAPTER 4: TRAINING MODELS
 
 ## Intro
-- Many ways to train models to be covered in this book
+- This chapter covers the various ways to train machine learning models covered elsewhere in this book
 - Will start by looking at a simple linear regression and 2 ways to train it
   - Using a closed form equation that directly calculates parameters that are a best fit
   - Using an iterative calculation approach called Gradient Descent (GD) that gradually tweaks input parameters to minimize the cost function.  Multiple types of Gradient descent:
@@ -120,5 +120,5 @@ array([[4.21509616], [2.77011339]])
 - To perform Linear Regression using SGD with Scikit-Learn, you can use the SGDRegressor class, which defaults to optimizing the squared error cost function. 
 
 ## Mini-Batch Gradient Descent
-- x
+- 
 ## TODO - CONTINUE HERE
